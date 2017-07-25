@@ -20,9 +20,11 @@
 		},
 		"BASE_URL": {
 			"description": "The url of your heroku app."
+			"value": ""
 		},
 		"SOCKET_URL": {
 			"description": "Where you websockets will connect to (i.e. your heroku app url)"
+			"value": ""
 		},
 		"MAILER_SERVICE_PROVIDER": {
 			"description": "Which mail service/API you will be using (i.e. SparkPost, Mandrill, etc)",
